@@ -4,7 +4,7 @@ import os
 base_path = os.path.dirname(os.path.abspath(__file__))
 
 # Uncompresser.
-uncompress_path = f"{base_path}/uncompreser/amxx_uncompress.exe"
+uncompress_path = f"{base_path}/uncompresser/amxx_uncompress.exe"
 
 # Path to .amxx files directory.
 plugins_path = f"{base_path}/plugins"
